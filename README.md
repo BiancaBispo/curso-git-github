@@ -1,3 +1,3 @@
-# Curso Geek-git1
+# Curso Geek-Git-GitHub
 
 ## Exemplo de uso 
